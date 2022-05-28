@@ -1,0 +1,7 @@
+Book author 1960
+Master_and_Margarita Bulgakov 1940
+Kaydasheva_simya Nechuy_Levickiy 1878
+Book second_author 1960
+Sherlock_Holms Arthur_Conan_Doyle 1887
+Tihrolovu Bagryanuy 1944
+The_Thief_Lord Funke 2000
